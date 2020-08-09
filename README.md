@@ -1,2 +1,2 @@
-# food-delivery
+# food-delivery-system
 food delivery spring boot application
